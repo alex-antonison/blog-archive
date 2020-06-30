@@ -2,7 +2,12 @@
 toc: true
 layout: post
 description: A post about the different type of data roles.
-categories: [markdown]
+tags:
+  - data scientist
+  - data engineer
+  - data analyst
+  - machine learning engineer
+  - data team
 title: What are the different roles in data?
 ---
 # What are the different roles in data?
@@ -75,7 +80,7 @@ A Machine Learning Engineer should work closely with the Data Science, Data Engi
   
 ### Updates
 
-#### 2019-12-08: 
+#### 2019-12-08
 
 * renv is now offered on cran, yay!
 * Changed the method of suggest python environment management to being venv based on research and testing for consistently and reliably setting up and managemetn environments in python. 
