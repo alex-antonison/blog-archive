@@ -2,12 +2,7 @@
 toc: true
 layout: post
 description: A post about the different type of data roles.
-tags:
-  - data scientist
-  - data engineer
-  - data analyst
-  - machine learning engineer
-  - data team
+categories: [data roles]
 title: What are the different roles in data?
 ---
 # What are the different roles in data?

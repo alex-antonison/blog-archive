@@ -1,8 +1,8 @@
 ---
 toc: true
 layout: post
-description: The importance of ethics in the world of data science
-categories: [markdown]
+description: The importance of ethics in the world of data science.
+categories: [ethics]
 title: Ethical use of algorithms with data
 ---
 # Ethical use of algorithms with data
