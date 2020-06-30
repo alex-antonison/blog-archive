@@ -17,7 +17,7 @@ And one last thing, although I do not advise trying to perform multiple roles at
 
 ### The different roles
 
-TODO: Add image
+![]({{ site.baseurl }}/images/data-organization-diagram.png "Different Roles in Data")
 
 #### **The Data Analyst - Describes Data**
 
