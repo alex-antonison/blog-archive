@@ -1,7 +1,7 @@
 ---
 toc: true
 layout: post
-description: A minimal example of using markdown with fastpages.
+description: A post about the different type of data roles.
 categories: [markdown]
 title: What are the different roles in data?
 ---

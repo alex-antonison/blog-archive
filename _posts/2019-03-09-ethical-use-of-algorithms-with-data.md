@@ -1,7 +1,7 @@
 ---
 toc: true
 layout: post
-description: A minimal example of using markdown with fastpages.
+description: The importance of ethics in the world of data science
 categories: [markdown]
 title: Ethical use of algorithms with data
 ---
