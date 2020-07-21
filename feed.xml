@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.0.0">Jekyll</generator><link href="https://alex-antonison.github.io/blog/feed.xml" rel="self" type="application/atom+xml" /><link href="https://alex-antonison.github.io/blog/" rel="alternate" type="text/html" /><updated>2020-07-21T18:25:45-05:00</updated><id>https://alex-antonison.github.io/blog/feed.xml</id><title type="html">Alex Antonison’s Blog</title><subtitle>An easy to use blogging platform with support for Jupyter Notebooks.</subtitle><entry><title type="html">What are the different roles in data?</title><link href="https://alex-antonison.github.io/blog/data%20roles/2019/10/04/what-are-the-different-roles-in-data.html" rel="alternate" type="text/html" title="What are the different roles in data?" /><published>2019-10-04T00:00:00-05:00</published><updated>2019-10-04T00:00:00-05:00</updated><id>https://alex-antonison.github.io/blog/data%20roles/2019/10/04/what-are-the-different-roles-in-data</id><content type="html" xml:base="https://alex-antonison.github.io/blog/data%20roles/2019/10/04/what-are-the-different-roles-in-data.html">&lt;h1 id=&quot;what-are-the-different-roles-in-data&quot;&gt;What are the different roles in data?&lt;/h1&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.0.0">Jekyll</generator><link href="https://alex-antonison.com/feed.xml" rel="self" type="application/atom+xml" /><link href="https://alex-antonison.com/" rel="alternate" type="text/html" /><updated>2020-07-21T18:31:50-05:00</updated><id>https://alex-antonison.com/feed.xml</id><title type="html">Alex Antonison’s Blog</title><subtitle>An easy to use blogging platform with support for Jupyter Notebooks.</subtitle><entry><title type="html">What are the different roles in data?</title><link href="https://alex-antonison.com/data%20roles/2019/10/04/what-are-the-different-roles-in-data.html" rel="alternate" type="text/html" title="What are the different roles in data?" /><published>2019-10-04T00:00:00-05:00</published><updated>2019-10-04T00:00:00-05:00</updated><id>https://alex-antonison.com/data%20roles/2019/10/04/what-are-the-different-roles-in-data</id><content type="html" xml:base="https://alex-antonison.com/data%20roles/2019/10/04/what-are-the-different-roles-in-data.html">&lt;h1 id=&quot;what-are-the-different-roles-in-data&quot;&gt;What are the different roles in data?&lt;/h1&gt;
 
 &lt;p&gt;&lt;em&gt;The intended audience for this post are people interested in getting into data or businesses looking to use data to drive business value.  With this in mind, I attempted to stay high level and provide enough information and key words for someone to find more in-depth resources on any given topic.  Additionally, when highlighting skills, I focus on what I have observed being commonly used in industry based on experience, combing through job postings, and networking.&lt;/em&gt;&lt;/p&gt;
 
@@ -10,7 +10,7 @@
 
 &lt;h3 id=&quot;the-different-roles&quot;&gt;The different roles&lt;/h3&gt;
 
-&lt;p&gt;&lt;img src=&quot;/blog/images/data-organization-diagram.png&quot; alt=&quot;&quot; title=&quot;Different Roles in Data&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/images/data-organization-diagram.png&quot; alt=&quot;&quot; title=&quot;Different Roles in Data&quot; /&gt;&lt;/p&gt;
 
 &lt;h4 id=&quot;the-data-analyst---describes-data&quot;&gt;&lt;strong&gt;The Data Analyst - Describes Data&lt;/strong&gt;&lt;/h4&gt;
 
@@ -84,7 +84,7 @@
 &lt;ul&gt;
   &lt;li&gt;renv is now offered on cran, yay!&lt;/li&gt;
   &lt;li&gt;Changed the method of suggest python environment management to being venv based on research and testing for consistently and reliably setting up and managemetn environments in python.&lt;/li&gt;
-&lt;/ul&gt;</content><author><name></name></author><summary type="html">What are the different roles in data?</summary></entry><entry><title type="html">Ethical use of algorithms with data</title><link href="https://alex-antonison.github.io/blog/ethics/2019/03/09/ethical-use-of-algorithms-with-data.html" rel="alternate" type="text/html" title="Ethical use of algorithms with data" /><published>2019-03-09T00:00:00-06:00</published><updated>2019-03-09T00:00:00-06:00</updated><id>https://alex-antonison.github.io/blog/ethics/2019/03/09/ethical-use-of-algorithms-with-data</id><content type="html" xml:base="https://alex-antonison.github.io/blog/ethics/2019/03/09/ethical-use-of-algorithms-with-data.html">&lt;h1 id=&quot;ethical-use-of-algorithms-with-data&quot;&gt;Ethical use of algorithms with data&lt;/h1&gt;
+&lt;/ul&gt;</content><author><name></name></author><summary type="html">What are the different roles in data?</summary></entry><entry><title type="html">Ethical use of algorithms with data</title><link href="https://alex-antonison.com/ethics/2019/03/09/ethical-use-of-algorithms-with-data.html" rel="alternate" type="text/html" title="Ethical use of algorithms with data" /><published>2019-03-09T00:00:00-06:00</published><updated>2019-03-09T00:00:00-06:00</updated><id>https://alex-antonison.com/ethics/2019/03/09/ethical-use-of-algorithms-with-data</id><content type="html" xml:base="https://alex-antonison.com/ethics/2019/03/09/ethical-use-of-algorithms-with-data.html">&lt;h1 id=&quot;ethical-use-of-algorithms-with-data&quot;&gt;Ethical use of algorithms with data&lt;/h1&gt;
 
 &lt;h3 id=&quot;preface&quot;&gt;Preface&lt;/h3&gt;
 
@@ -163,7 +163,7 @@ Man is to Computer Programmer as Woman is to Homemaker? Debiasing Word Embedding
       &lt;li&gt;&lt;a href=&quot;https://weaponsofmathdestructionbook.com/&quot;&gt;Weapons of Math Destruction&lt;/a&gt;&lt;/li&gt;
     &lt;/ul&gt;
   &lt;/li&gt;
-&lt;/ul&gt;</content><author><name></name></author><summary type="html">Ethical use of algorithms with data</summary></entry><entry><title type="html">Fastpages Notebook Blog Post</title><link href="https://alex-antonison.github.io/blog/jupyter/2019/01/01/test.html" rel="alternate" type="text/html" title="Fastpages Notebook Blog Post" /><published>2019-01-01T00:00:00-06:00</published><updated>2019-01-01T00:00:00-06:00</updated><id>https://alex-antonison.github.io/blog/jupyter/2019/01/01/test</id><content type="html" xml:base="https://alex-antonison.github.io/blog/jupyter/2019/01/01/test.html">&lt;!--
+&lt;/ul&gt;</content><author><name></name></author><summary type="html">Ethical use of algorithms with data</summary></entry><entry><title type="html">Fastpages Notebook Blog Post</title><link href="https://alex-antonison.com/jupyter/2019/01/01/test.html" rel="alternate" type="text/html" title="Fastpages Notebook Blog Post" /><published>2019-01-01T00:00:00-06:00</published><updated>2019-01-01T00:00:00-06:00</updated><id>https://alex-antonison.com/jupyter/2019/01/01/test</id><content type="html" xml:base="https://alex-antonison.com/jupyter/2019/01/01/test.html">&lt;!--
 #################################################
 ### THIS FILE WAS AUTOGENERATED! DO NOT EDIT! ###
 #################################################
@@ -895,7 +895,7 @@ And another {% fn 2 %}
 &lt;/div&gt;
 &lt;/div&gt;
 &lt;/div&gt;
-&lt;/div&gt;</content><author><name></name></author><summary type="html"></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://alex-antonison.github.io/blog/images/chart-preview.png" /><media:content medium="image" url="https://alex-antonison.github.io/blog/images/chart-preview.png" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">An Example Markdown Post</title><link href="https://alex-antonison.github.io/blog/markdown/2019/01/01/test-markdown-post.html" rel="alternate" type="text/html" title="An Example Markdown Post" /><published>2019-01-01T00:00:00-06:00</published><updated>2019-01-01T00:00:00-06:00</updated><id>https://alex-antonison.github.io/blog/markdown/2019/01/01/test-markdown-post</id><content type="html" xml:base="https://alex-antonison.github.io/blog/markdown/2019/01/01/test-markdown-post.html">&lt;h1 id=&quot;example-markdown-post&quot;&gt;Example Markdown Post&lt;/h1&gt;
+&lt;/div&gt;</content><author><name></name></author><summary type="html"></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://alex-antonison.com/images/chart-preview.png" /><media:content medium="image" url="https://alex-antonison.com/images/chart-preview.png" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">An Example Markdown Post</title><link href="https://alex-antonison.com/markdown/2019/01/01/test-markdown-post.html" rel="alternate" type="text/html" title="An Example Markdown Post" /><published>2019-01-01T00:00:00-06:00</published><updated>2019-01-01T00:00:00-06:00</updated><id>https://alex-antonison.com/markdown/2019/01/01/test-markdown-post</id><content type="html" xml:base="https://alex-antonison.com/markdown/2019/01/01/test-markdown-post.html">&lt;h1 id=&quot;example-markdown-post&quot;&gt;Example Markdown Post&lt;/h1&gt;
 
 &lt;h2 id=&quot;basic-setup&quot;&gt;Basic setup&lt;/h2&gt;
 
@@ -949,7 +949,7 @@ And another {% fn 2 %}
 
 &lt;h2 id=&quot;images&quot;&gt;Images&lt;/h2&gt;
 
-&lt;p&gt;&lt;img src=&quot;/blog/images/logo.png&quot; alt=&quot;&quot; title=&quot;fast.ai's logo&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/images/logo.png&quot; alt=&quot;&quot; title=&quot;fast.ai's logo&quot; /&gt;&lt;/p&gt;
 
 &lt;h2 id=&quot;code&quot;&gt;Code&lt;/h2&gt;
 
