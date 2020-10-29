@@ -8,4 +8,4 @@ Over my career, I have performed in Data Engineering, Analytic, and Science role
 
 I am the organizer of a data meetup Nashville Data Nerds ([https://www.meetup.com/Data-Nerds/](https://www.meetup.com/Data-Nerds/)) focused around education and working with data.
 
-Check me out on [LinkedIn](https://www.linkedin.com/in/alexanderantonison/) and [Twitter](https://twitter.com/adantonison)!
+Check me out on [LinkedIn](https://www.linkedin.com/in/alexantonison/) and [Twitter](https://twitter.com/adantonison)!
